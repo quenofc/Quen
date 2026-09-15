@@ -1,0 +1,9 @@
+{
+  "data": {
+    "chain_id": 4663,
+    "vault_address": "0xBeEff033F34C046626B8D0A041844C5d1A5409dd",
+    "last_indexed_block": "123450",
+    "lookback": "seven_days",
+    "apy": 0.0525
+  }
+}

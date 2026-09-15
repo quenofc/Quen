@@ -1,0 +1,14 @@
+{
+  "data": {
+    "chain_id": 4663,
+    "address": "0xBeEff033F34C046626B8D0A041844C5d1A5409dd",
+    "last_indexed_block": "123456",
+    "last_accrual_timestamp": 1799999970,
+    "total_assets": "100000000",
+    "total_supply": "98039215686274509803921568",
+    "withdrawable_assets": "40000000",
+    "allocated_assets": "100000000",
+    "idle_assets": "0",
+    "share_price_ray": "1020000000000000000000000000"
+  }
+}
