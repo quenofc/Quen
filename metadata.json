@@ -1,0 +1,6 @@
+{
+  "name": "Quantara",
+  "description": "Quantara AI landing page with GSAP and ScrollTrigger animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
